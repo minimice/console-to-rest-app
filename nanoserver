@@ -1,0 +1,3 @@
+
+
+docker run -it --name nanonserver -v L:\consoleApp:C:\consoleApp microsoft/nanoserver cmd
